@@ -20,7 +20,8 @@ Change list:
 * Get Comment Date
 * Get Comment Time
 
-https://www.youtube.com/watch?v=Bs1e18Lz_XI
+
+https://www.youtube.com/watch?v=ky3M-VzYmkI
 
 
 == Installation ==
