@@ -11,7 +11,19 @@ This is just any wordpress site English language all date and time convert to ba
 == Description ==
 
 This is just any wordpress site English language all date and time convert to bangla language.
+Change list:
 
+* The Time
+* The Date
+* Get The Date
+* Comments Number
+* Get Comment Date
+* Get Comment Time
+
+https://www.youtube.com/watch?v=Bs1e18Lz_XI
+
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/Bs1e18Lz_XI" frameborder="0" allowfullscreen></iframe>
 
 == Installation ==
 
