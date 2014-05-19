@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: SP 1KB Bangla Date And Time
-Plugin URI: http://www.shaplahost.com/plugins/sp-bangla-date-and-time-converter
+Plugin URI: http://wordpress.org/plugins/sp-bangla-date-and-time-converter
 Description: This is just any wordpress site English language all date and time convert to bangla language.
 Version: 1.0
 Author: Md Abul Bashar
