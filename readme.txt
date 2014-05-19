@@ -22,9 +22,6 @@ Change list:
 
 https://www.youtube.com/watch?v=Bs1e18Lz_XI
 
-
-<iframe width="420" height="315" src="//www.youtube.com/embed/Bs1e18Lz_XI" frameborder="0" allowfullscreen></iframe>
-
 == Installation ==
 
 * Just Upload `SP 1KB Bangla Date And Time` to the `/wp-content/plugins/` directory
