@@ -9,7 +9,7 @@ Author URI: http://www.pchelpcenterbd.com/
 */
 
 
-function sp_bangla_date_and_time_convert($str)
+function make_bangla_number($str)
 {
     $engNumber = array(1,2,3,4,5,6,7,8,9,0);
     $bangNumber = array('১','২','৩','৪','৫','৬','৭','৮','৯','০');
@@ -18,11 +18,11 @@ function sp_bangla_date_and_time_convert($str)
     return $converted;
 }
   
-add_filter( 'get_the_time', 'sp_bangla_date_and_time_convert' );
-add_filter( 'the_date', 'sp_bangla_date_and_time_convert' );
-add_filter( 'get_the_date', 'sp_bangla_date_and_time_convert' );
-add_filter( 'comments_number', 'sp_bangla_date_and_time_convert' );
-add_filter( 'get_comment_date', 'sp_bangla_date_and_time_convert' );
-add_filter( 'get_comment_time', 'sp_bangla_date_and_time_convert' );
+add_filter( 'get_the_time', 'make_bangla_number' );
+add_filter( 'the_date', 'make_bangla_number' );
+add_filter( 'get_the_date', 'make_bangla_number' );
+add_filter( 'comments_number', 'make_bangla_number' );
+add_filter( 'get_comment_date', 'make_bangla_number' );
+add_filter( 'get_comment_time', 'make_bangla_number' );
 
 ?>
