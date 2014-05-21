@@ -22,6 +22,9 @@ Change list:
 
 https://www.youtube.com/watch?v=ky3M-VzYmkI
 
+my other plugin download: wp admin bar hiddener tools plugin
+http://wordpress.org/plugins/wp-admin-bar-hiddener-tools-plugin/
+
 == Installation ==
 
 * Just Upload `SP 1KB Bangla Date And Time` to the `/wp-content/plugins/` directory
